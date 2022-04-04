@@ -1,2 +1,0 @@
-# DPCT-Companion
-
